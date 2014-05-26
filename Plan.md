@@ -1,5 +1,4 @@
-VriendenApp
-Kevin Schenkers 0867195
+**VriendenApp** Kevin Schenkers 0867195
 
 #Functionaliteiten
 ##Idee voorstellen
